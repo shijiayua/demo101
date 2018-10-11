@@ -13,4 +13,11 @@ public class B {
     public void setB(int b) {
         this.b = b;
     }
+
+    public B(int b) {
+        this.b = b;
+    }
+
+    public B() {
+    }
 }
